@@ -11,7 +11,10 @@ entries:
       url: /
     - output: web,pdf
       title: module name here
-      url: core.html
+      url: card.html
+    - output: web,pdf
+      title: Dock
+      url: deck.html
     output: web
     title: deck_of_cards
   output: web

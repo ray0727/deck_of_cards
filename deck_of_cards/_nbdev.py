@@ -3,12 +3,11 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"Card": "00_card.ipynb",
-         "say_hello": "00_core.ipynb"}
+         "Deck": "01_deck.ipynb"}
 
-modules = ["card.py",
-           "core.py"]
+modules = ["card.py"]
 
-doc_url = "https://ray0727.github.io/deck_of_cards/"
+doc_url = "https://ray0727.github.io/nbdev_template/deck_of_cards/"
 
 git_url = "https://github.com/ray0727/deck_of_cards/tree/master/"
 
