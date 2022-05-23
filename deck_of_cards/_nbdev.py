@@ -7,7 +7,7 @@ index = {"Card": "00_card.ipynb",
 
 modules = ["card.py"]
 
-doc_url = "https://ray0727.github.io/nbdev_template/deck_of_cards/"
+doc_url = "https://ray0727.github.io/deck_of_cards/deck_of_cards/"
 
 git_url = "https://github.com/ray0727/deck_of_cards/tree/master/"
 
